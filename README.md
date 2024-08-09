@@ -35,7 +35,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
 
-git clone https://github.com/sissy-ch/maths_game(mobile).git
+git clone https://github.com/sissy-ch/maths-game-mobile.git
 cd maths_game
 
 2. **Install the dependencies:**

@@ -24,7 +24,7 @@ A simple Flutter-based mathematics game where users can practice basic arithmeti
 ## Screenshots
 
 ![launch icon](image.png)
-![start](image1.png)
+![start](image-1.png)
 ![choose operation](image-2.png)
 ![game](image-3.png)
 ![gameOver](image-4.png)
